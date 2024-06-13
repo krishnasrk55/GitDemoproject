@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is the display page
+This is the display page 1
 </body>
 </html>
